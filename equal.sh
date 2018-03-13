@@ -7,5 +7,5 @@ if [ $a == $b ]
 then
     echo " a is equal to b"
 else
-    echo "not equal"
+    echo "not equal numbers"
 fi
